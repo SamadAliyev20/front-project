@@ -1,0 +1,10 @@
+.color-link{
+    text-decoration: none;
+    color: white;
+}
+.color-link:hover{
+    color: inherit;
+}
+.tablee{
+    margin-top: 5rem;
+}
